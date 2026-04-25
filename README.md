@@ -6,7 +6,7 @@ CS student. interested in ML and LLMs.
 - RAG chatbot
 - Sentiment analyzer (TinyLlama)
 - Sentence analyzer (DistilBERT, fine-tuned)
-- Notes/summary on *Attention Is All You Need*
+- Notes on *Attention Is All You Need*
 
 **stack**
 Python · pandas · NumPy · scikit-learn · PyTorch · Hugging Face
