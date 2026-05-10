@@ -14,4 +14,4 @@ Python · pandas · NumPy · scikit-learn · PyTorch · Hugging Face
 **classical ML i've worked with**
 Logistic Regression, Decision Trees, Random Forest, SVM
 
-currently going deeper into transformers, fine-tuning, and RAG internals.
+currently going deeper into Deep Learning.
